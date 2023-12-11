@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "senha": "sua senha",
+      "email": "seu e-mail",
+      "nome": "seu nome",
+      "imgPerfil": "img/defaultProfile.png"
+    }
+  ],
+  "favoritos": [
+    {
+      "imgCapa": "https://image.tmdb.org/t/p/w500/AbkZUxkVZU8XhoRGkknu6cZUark.jpg",
+      "request": "",
+      "userid": "2",
+      "id": 1
+    },
+    {
+      "imgCapa": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg",
+      "request": "",
+      "userid": "1",
+      "id": 2
+    }
+  ]
+}
